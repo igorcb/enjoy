@@ -9,3 +9,5 @@
 05 - Fifth commit
 
 06 - Adjuste list
+
+adjuste lines file 
