@@ -1,9 +1,11 @@
 # Enjoy
 
-Teste de commit
+02 - Second commit
 
-01 - fazer novo commit - third
+03 - Third commit
 
-02 - Fourth commit
+04 - Fourth commit
 
-03 - Fifth commit
+05 - Fifth commit
+
+06 - Adjuste list
