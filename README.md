@@ -10,8 +10,6 @@
 
 06 - Adjuste list
 
-<<<<<<< HEAD
-adjuste lines file 
-=======
+07 - adjuste lines file
+
 08 - must keep the line of the seventh compromise
->>>>>>> 9fdd415 (should must keep line seventh)
