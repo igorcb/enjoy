@@ -9,7 +9,3 @@
 05 - Fifth commit
 
 06 - Adjuste list
-
-07 - adjuste lines file
-
-08 - must keep the line of the seventh compromise
